@@ -1,0 +1,13 @@
+#slideshow { 
+    width: 240px; 
+    height: 240px;
+    margin-bottom: 10px;
+}
+
+#slideshow > div {  
+    width: 1080px;
+    height: 280px;
+    text-align: center;
+    position: absolute; 
+
+}
